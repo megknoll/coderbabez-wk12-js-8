@@ -44,7 +44,9 @@ for(var i = 0; i < 5; i++){
 }
 ```
 
-|| value of i || code to run || i++ ||
+Let's work through that loop together ...
+| Value of i | Code to Run | i++  |
+| -----------|-------------| -----|
 | | | |
 | | | |
 | | | |
@@ -93,7 +95,8 @@ for(var i = 0; i < 5; i++){
 }
 ```
 Let's work through that loop together ...
-|| value of i || code to run || i++ ||
+| Value of i | Code to Run | i++  |
+| -----------|-------------| -----|
 | | | |
 | | | |
 | | | |
