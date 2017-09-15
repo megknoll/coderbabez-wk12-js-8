@@ -46,13 +46,13 @@ for(var i = 0; i < 5; i++){
 
 Let's work through that loop together ...
 
-| Value of i | Code to Run | i++  |
-| -----------|-------------| -----|
-|. | .| .|
-| .|. |. |
-| .|. |. |
-|. |. |. |
-|. |. |. |
+| i | i < 5 | console.log(i)  | i++ |
+| -----------|-------------| -----| -----|
+| .| .| .| .|
+| .| .| .| .|
+| .| .| .| .|
+| .| .| .| .|
+| .| .| .| .|
 
 #### Check for understanding
 
@@ -97,13 +97,13 @@ for(var i = 0; i < 5; i++){
 ```
 Let's work through that loop together ...
 
-| Value of i | Code to Run | i++  |
-| -----------|-------------| -----|
-| .| .| .|
-| .| .| .|
-|. |. |. |
-| .|. | .|
-| .| .|. |
+| i | i < 5 | console.log(students[i])  | i++ |
+| -----------|-------------| -----| -----|
+| .| .| .| .|
+| .| .| .| .|
+| .| .| .| .|
+| .| .| .| .|
+| .| .| .| .|
 
 That's pretty great, but what if I added another item to my array? Does it still do what we want? Why or why not?
 ```
